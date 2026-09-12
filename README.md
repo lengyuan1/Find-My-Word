@@ -20,6 +20,14 @@ Si vous utilisez un IDE comme **Visual Studio Code**, **IntelliJ IDEA** ou **Ecl
 
 Pour lancer le jeu en ligne de commande (terminal) depuis la racine du projet :
 
-1. **Compiler les fichiers Java** :
-   ```bash
-   javac -d bin -cp "lib/*" src/**/*.java
+1. Compiler les fichiers Java :
+javac -d bin -cp "lib/*" src/**/*.java
+
+2. Exécuter le jeu (Sur Linux / WSL / macOS) :
+java -cp "bin:lib/*" jeu.Main
+
+3. Exécuter le jeu (Sur Windows) :
+java -cp "bin;lib/*" jeu.Main
+
+## 👨‍💻 Auteur
+- Jean-François Zhang
