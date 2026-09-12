@@ -1,9 +1,9 @@
 # Find My Word 🎮
 
-Un jeu de devinette de mots développé en Java, réalisé dans le cadre de la SAÉ S2.01 / S2.02 (BUT Informatique, IUT de Villetaneuse).
+Un jeu de devinette de mots entièrement développé en Java.
 
 ## 📝 Description
-**Find My Word** est un jeu interactif où le joueur doit deviner un mot caché. Le projet met en pratique les concepts de la programmation orientée objet (POO) en Java et utilise des fichiers JSON pour stocker et charger le dictionnaire de mots de manière dynamique.
+**Find My Word** est un jeu interactif où le joueur doit deviner un mot caché. Ce projet personnel met en pratique les concepts de la programmation orientée objet (POO) en Java et utilise des fichiers JSON pour stocker et charger le dictionnaire de mots de manière dynamique.
 
 ## 🚀 Fonctionnalités
 - Architecture Orientée Objet propre (séparation Modèle / Jeu).
