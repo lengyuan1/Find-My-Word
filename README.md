@@ -1,20 +1,20 @@
-# Find My Word 🎮
+# Find My Word 
 
 Un jeu de devinette de mots entièrement développé en Java.
 
-## 📝 Description
+##  Description
 **Find My Word** est un jeu interactif où le joueur doit deviner un mot caché. Ce projet personnel met en pratique les concepts de la programmation orientée objet (POO) en Java et utilise des fichiers JSON pour stocker et charger le dictionnaire de mots de manière dynamique.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 - Architecture Orientée Objet propre (séparation Modèle / Jeu).
 - Chargement d'une banque de mots depuis un fichier JSON (`mots_fr_5_lettres_equilibres_1000.json`).
 - Vérification des entrées utilisateur et système de tentatives.
 
-## 💻 Prérequis
+##  Prérequis
 - **Java Development Kit (JDK)** : Version 17 ou supérieure recommandée.
 - **Bibliothèques externes** : Incluses dans le dossier `/lib` (pour la lecture du JSON).
 
-## 🛠️ Comment compiler et lancer le jeu
+##  Comment compiler et lancer le jeu
 
 Si vous utilisez un IDE comme **Visual Studio Code**, **IntelliJ IDEA** ou **Eclipse**, vous pouvez simplement ouvrir le dossier du projet et exécuter le fichier `src/jeu/Main.java`.
 
@@ -29,5 +29,5 @@ java -cp "bin:lib/*" jeu.Main
 3. Exécuter le jeu (Sur Windows) :
 java -cp "bin;lib/*" jeu.Main
 
-## 👨‍💻 Auteur
+##  Auteur
 - Jean-François Zhang
